@@ -1,0 +1,1 @@
+dir /b > ./_XWORD-ALL.txt
